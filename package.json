@@ -1,0 +1,29 @@
+{
+  "name": "simple-cli-atm",
+  "version": "1.0.0",
+  "description": "a simple atm machine made for cli using typescript",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devfaisee/simple-atm-.git"
+  },
+  "author": "dev.faisee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devfaisee/simple-atm-/issues"
+  },
+  "homepage": "https://github.com/devfaisee/simple-atm-#readme",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.22",
+    "terminal-kit": "^3.1.1"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
